@@ -1,0 +1,24 @@
+_repo: Chez-l-illustre-Ecrivain_66681
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mirbeau, Octave
+    birthdate: 1848
+    deathdate: 1917
+    gutenberg_agent_id: '6950'
+    url: http://www.gutenberg.org/2009/agents/6950
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Octave_Mirbeau
+    - https://en.wikipedia.org/wiki/Octave_Mirbeau
+description: ''
+gutenberg_issued: '2021-11-06'
+identifiers:
+  gutenberg: '66681'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Chez l'illustre Écrivain
+url: http://www.gutenberg.org/ebooks/66681
