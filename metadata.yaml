@@ -1,5 +1,8 @@
 _repo: Chez-l-illustre-Ecrivain_66681
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66681-h/images/cover.jpg
 creator:
   author:
     agent_name: Mirbeau, Octave
@@ -11,6 +14,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Octave_Mirbeau
     - https://en.wikipedia.org/wiki/Octave_Mirbeau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66681#Chez-l-illustre-Ecrivain
 gutenberg_issued: '2021-11-06'
 identifiers:
   gutenberg: '66681'
